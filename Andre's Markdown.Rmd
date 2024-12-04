@@ -1,6 +1,6 @@
 ---
 title: "Andre's Markdown"
-author: "Andre Geertse"
+author: "André Geertse"
 output: html_document
 date: "2024-12-04"
 ---
